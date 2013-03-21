@@ -141,8 +141,8 @@ Unicom
     <string name="key_label">Софт-клавиши</string>
     <string name="keyboard_lights_title">Подсветка кнопок</string>
     <string name="keyboard_lights_summary">Включить подсветку софт-клавиш</string>
-    <string name="keyboard_auto_lights_title">Автоподсветка кнопок</string>
-    <string name="keyboard_auto_lights_summary">Автоматическая подсветка софт-клавиш</string>
+    <string name="keyboard_auto_lights_title">Длительность подсветки</string>
+    <string name="keyboard_auto_lights_summary">Длительность подсветки клавиш такая же как и у дисплея</string>
     <string name="volume_key_title">Кнопка громкости</string>
     <string name="volume_wake_title">Громкость звонка</string>
     <string name="volume_wake_summary">Если ваш телефон выключен, то нажатие клавиши громкости включит экран.</string>
